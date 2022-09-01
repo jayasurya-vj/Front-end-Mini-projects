@@ -1,4 +1,4 @@
-# Front-end-Mini-projects
+# UI Mini projects
 
 Contains different UI components like auto-typing, Kinetic loader, increment counter etc., created using only HTML, CSS and Javascript. 
 
